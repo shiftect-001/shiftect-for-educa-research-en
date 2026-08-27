@@ -812,7 +812,7 @@ A manually fixed lesson may violate teacher availability, student availability, 
 
 The system should not silently accept invalid fixed data.
 
-shiftect. for EDUCA uses feasibility checking to determine whether manual fixing creates an infeasible condition.
+shiftect. for EDUCA checks whether manually fixed lessons conflict with applicable constraints and identifies the conflict when necessary.
 
 ### Q077. Can the system regenerate a schedule while keeping manual changes?
 
