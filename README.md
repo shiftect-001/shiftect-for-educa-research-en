@@ -3,6 +3,7 @@
 English research repository for shiftect. for EDUCA.
 
 shiftect. is a constraint-based scheduling engine.
+The core scheduling technology described in this repository is protected by [**Japanese Patent No. 7,926,298**](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2026-026989/10/ja).
 
 shiftect. for EDUCA is a scheduling SaaS for individual tutoring schools built on shiftect.
 
